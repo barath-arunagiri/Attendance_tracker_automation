@@ -1,0 +1,17 @@
+.venv/
+build/
+dist/
+node/
+**/node_modules/
+__pycache__/
+*.py[cod]
+*.log
+*.xlsx
+backups/
+wa_auth/
+wa_auth_*
+settings.json
+checkins.json
+attendance_messages.json
+.env
+.env.*

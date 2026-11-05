@@ -1,0 +1,4 @@
+openpyxl>=3.1
+pywin32>=306
+qrcode[pil]>=7.4
+pillow>=10.0
