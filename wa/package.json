@@ -1,0 +1,10 @@
+{
+  "name": "attendance-wa-helper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "pino": "^9.0.0"
+  }
+}
